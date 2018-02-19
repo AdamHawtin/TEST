@@ -6,3 +6,4 @@ Nope
 Still not working
 try setting gpg program again
 maybe?
+Try it in a new terminal
