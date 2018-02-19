@@ -5,3 +5,4 @@ It might be working?
 Nope
 Still not working
 try setting gpg program again
+maybe?
